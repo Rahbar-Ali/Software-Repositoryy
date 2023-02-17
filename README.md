@@ -34,3 +34,4 @@ The Program will produce a file named **'output,json'** in the same directory as
 # Note
 * Make sure that directory and root_folder is correctly specified.
 * This scripte requires Python 3 and **'argparse'** module. 
+* I used apache commons-lang and apache commons-codec to test program
